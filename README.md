@@ -2,7 +2,10 @@
 
 **`Byte Bender (Student\Hardware\Software)`**
 
-I'm a passionate university student currently pursuing a Bachelor of Science in Computer Engineering. My fascination with technology spans a wide range -- from signals all the way to servers -- and I thrive on exploring its endless possiblilites. In my projects,I take a hands-on approach, building everything from the ground up from -- initial planning and design to real-world implementation. My respositories showcase a mix of academic assignments and personal projects that I develop in my free time.
+I'm a passionate university student currently pursuing a Bachelor of Science in Computer Engineering. My fascination with technology spans a wide range -- from signals all the way to servers -- and I thrive on exploring its endless possiblilites. </br> 
+
+In my projects, I take a hands-on approach, building everything from the ground up from -- initial planning and design to real-world implementation.
+My respositories showcase a mix of academic assignments and personal projects that I develop in my free time. </br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harrison-stokes/) 
