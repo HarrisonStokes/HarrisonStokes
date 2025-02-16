@@ -1,6 +1,6 @@
 # 💻🎒 Harrison Stokes
 
-**`Byte Bender (Student\Hardware\Software)`**
+<!--**`Byte Bender (Student\Hardware\Software)`**-->
 
 I'm a passionate university student currently pursuing a Bachelor of Science in Computer Engineering. My fascination with technology spans a wide range -- from signals all the way to servers -- and I thrive on exploring its endless possiblilites. </br> 
 
@@ -16,4 +16,3 @@ My respositories showcase a mix of academic assignments and personal projects th
 ---
 [![](https://visitcount.itsvg.in/api?id=HarrisonStokes&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
